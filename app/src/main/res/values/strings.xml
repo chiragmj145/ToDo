@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="mark_as_completed">Mark as Completed</string>
+    <string name="reset">Reset</string>
+
+</resources>

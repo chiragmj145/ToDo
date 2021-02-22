@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746404821517",
+    "firebase_url": "https://todo-list-8afb5.firebaseio.com",
+    "project_id": "todo-list-8afb5",
+    "storage_bucket": "todo-list-8afb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746404821517:android:19f4a425a12045f1ec7344",
+        "android_client_info": {
+          "package_name": "com.chirag.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746404821517-iqktn2n05fdieh073uqga2stp34tn8uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJH60_LhwbzqXTYCv5KbmZ-p6lIZVMzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746404821517-iqktn2n05fdieh073uqga2stp34tn8uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
